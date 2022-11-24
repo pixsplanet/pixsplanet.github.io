@@ -2,4 +2,12 @@ html, body {
     font-family: "Comic Sans MS", "Comic Sans", cursive;
     height: 100%;
     width: 100%;
+    background-color: lightskyblue;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
   }
